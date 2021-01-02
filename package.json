@@ -1,9 +1,9 @@
-{  "homepage": "https://github.com/vipinkumar-cse/project-news-web-app",
+{  
 
   "name": "alan_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vipinkumar-cse/project news web app",
+  "homepage": "https://github.com/vipinkumar-cse/project-news-web-app",
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.1.8",
     "@material-ui/core": "^4.10.1",

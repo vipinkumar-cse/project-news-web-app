@@ -1,4 +1,4 @@
-{  "homepage": "https://github.com/vipinkumar-cse/project news web app",
+{  "homepage": "https://github.com/vipinkumar-cse/project-news-web-app",
  "scripts": {
   
   "predeploy": "npm run build",

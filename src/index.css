@@ -1,0 +1,17 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-image: url('https://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-19.jpg');
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
